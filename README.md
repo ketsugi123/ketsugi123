@@ -5,6 +5,6 @@
 - 📫 How to reach me: ketsugi on discord 
 - ⚡ Fun fact:
   
-<img src="img/rainbow_dragon.svg" alt="image" style="width:1000;height:auto;">
+<img src="img/dragon.svg" alt="image" style="width:4000;height:auto;">
 
 
